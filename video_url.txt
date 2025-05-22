@@ -1,0 +1,5 @@
+Player URL:
+https://odelugit.github.io/player/?list=https://raw.githubusercontent.com/odelugit/8bd678f1fa466d50/refs/heads/master/github_playlist.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/odelugit/8bd678f1fa466d50/refs/heads/master/github_playlist.m3u8
